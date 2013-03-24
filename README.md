@@ -7,7 +7,7 @@ A user-moderated commenting system.
 
 [Kevin Leung](http://github.com/kevleung)  
 [Mihai Nicolae](http://github.com/mnicolae)   
-[Philip Ojha](http://github.com/ojhaa)  
+[Philip Ojha](http://github.com/oojhaa)  
 [Jiang Hong Tao](http://github.com/jianghong)    
 
 # Instructor #
