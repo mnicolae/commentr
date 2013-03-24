@@ -11,11 +11,11 @@ In terminal:
 
 Then, in browser:
 
-	http://localhost:31100
+	http://127.0.0.1:31110/
 
-For pre-populating and/or testing, run the RESTful URLs provided in urls.txt.
+### For pre-populating and/or testing, run the RESTful URLs provided in urls.txt.
 
-More documentation available [here](https://docs.google.com/document/d/10GEvxpX6j5AlhrcAq1mWWsWp4KbPUG-KHW6CDPpjXRU/edit)
+### More documentation available [here](https://docs.google.com/document/d/10GEvxpX6j5AlhrcAq1mWWsWp4KbPUG-KHW6CDPpjXRU/edit).
 
 # Authors #
 
