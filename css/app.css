@@ -1,0 +1,50 @@
+body {
+	background-color:#dddddd;
+	font-family: "century gothic"
+}
+
+label {
+	display:block;
+}
+
+.topic {
+	margin-bottom: 20px;
+	border: 2px solid white;
+	padding: 20px;
+	margin-right:50px;
+	border-radius: 10px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+.link {
+	float:right;
+	font-size: 15px;
+	margin-top:-50px;
+}
+
+.reply {
+	margin-left:40px;
+	margin-bottom: 20px;
+	border-top: 1px solid white;
+	border-left: 1px solid white;
+	padding: 10px;
+}
+
+.replySpace, .tvid, .vid {
+	border: 2px solid white;
+	background-color: gray;
+	display:inline;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.replySpace:hover, .tvid:hover, .vid:hover {
+	color: red;
+}
+
+textarea {
+	margin-top :15px;
+}
